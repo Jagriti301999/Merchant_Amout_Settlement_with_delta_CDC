@@ -1,0 +1,5 @@
+transaction_id,upi_id,merchant_id,transaction_amount,transaction_timestamp,transaction_status
+T002,upi2@bank,M002,1000,2024-12-21T10:20:00.000Z,failed
+T004,upi4@bank,M004,2000,2024-12-21T10:25:00.000Z,initiated
+T003,upi3@bank,M003,1500,2024-12-21T10:35:00.000Z,completed
+T001,upi1@bank,M001,500,2024-12-21T10:30:00.000Z,refunded
